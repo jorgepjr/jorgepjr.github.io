@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-cli": "^2.8.29"
+  }
+}
